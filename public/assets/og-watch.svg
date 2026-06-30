@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#020617"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" x2="1">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="90" y="185" fill="#fff" font-family="Inter, Arial" font-size="72" font-weight="800">AI Smart Watch X Pro</text>
+  <text x="94" y="255" fill="#cbd5e1" font-family="Inter, Arial" font-size="30">Health intelligence. Effortless style.</text>
+  <rect x="760" y="105" width="210" height="420" rx="70" fill="#dbeafe"/>
+  <rect x="785" y="140" width="160" height="350" rx="48" fill="#020617"/>
+  <circle cx="865" cy="315" r="72" fill="none" stroke="url(#screen)" stroke-width="18"/>
+  <path d="M865 250v65l50 32" stroke="#f8fafc" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
